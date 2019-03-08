@@ -6,4 +6,4 @@ the app uses API from https://unsplash.com/developers and renders a collection o
 
 JavaScript, React, CSS Grid, HTML
 
-![printscreen](Screenshot.png "printscreen")
+![printscreen](Screenshot1.png "printscreen")
